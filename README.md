@@ -61,3 +61,11 @@ The [preparation report](PREPARATION_REPORT.md) lists the checks performed and t
 
 ### Order Tracking
 ![Order Tracking](screenshots/order-tracking.png)
+
+### Homepage Sections
+
+![Homepage Sections](screenshots/homepage-sections.jpeg)
+
+### Sign Up
+
+![Sign Up](screenshots/signup.jpeg)
