@@ -64,8 +64,8 @@ The [preparation report](PREPARATION_REPORT.md) lists the checks performed and t
 
 ### Homepage Sections
 
-![Homepage Sections](screenshots/homepage-sections.jpeg)
+![Homepage Sections](screenshots/homepage-sections.png)
 
 ### Sign Up
 
-![Sign Up](screenshots/signup.jpeg)
+![Sign Up](screenshots/signup.png)
