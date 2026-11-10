@@ -1,0 +1,9 @@
+Options -Indexes
+
+<FilesMatch "^\.(?!well-known)|^(config\..*\.php|.*\.(sql|conf|log))$">
+    Require all denied
+</FilesMatch>
+
+<If "%{REQUEST_URI} =~ m#(?:^|/)\.#">
+    Require all denied
+</If>

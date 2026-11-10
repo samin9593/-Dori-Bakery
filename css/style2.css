@@ -1,0 +1,98 @@
+
+.navbar .nav-link{
+    float: right;
+    margin-left: 50px;
+    color: rgba(74, 70, 70, 0.68);
+    background-color: rgb(246,243,240);
+
+}
+
+.nav {
+    margin-top: 20px;
+    margin-right: 350px;
+    width: 500px;
+    float: right;
+    margin-top: 10px;
+    background-color: rgb(246,243,240);
+
+}
+nav.navbar{
+    background-color: rgb(246,243,240);
+}
+
+.dropdown-menu{
+    background-color: rgba(74, 70, 70, 0.68);
+}
+.items{
+    color:rgb(246,243,240) ;
+}
+.items:hover{
+    color:#8c1313 ;
+}
+.icons{
+    color:rgb(246,243,240) ;
+}
+.icons:hover{
+    color:#8c1313 ;
+}
+.shopping-icon{
+    color: #8c1313;
+    float: right;
+    margin-right: -850px;
+}
+.profile-icon{
+    color: #8c1313;
+    float: right;
+    margin-right: -900px;
+}
+.banner{
+    float: left;
+
+}
+.banner-text{
+    padding: 100px;
+    margin-left: 50px;
+}
+.examples{
+    padding: 100px;
+    margin-left: 50px;
+    margin-top: 350px;
+
+}
+s
+.img-card{
+    overflow: hidden;
+    border-radius: 15px;
+}
+.img-card img{
+    border-radius: 15px;
+    transition: all ease-in-out .25s;
+}
+.img-card img:hover{
+    transform: scale(1.07);
+    border-radius:15px;
+    transition: all ease-in-out .25s;
+}
+.cap-card{
+    height: 150px;
+    width:200px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: -20px;
+    position: relative;
+}
+.title-card{
+    padding: 10px;
+}
+ .item3{
+     color:#8c1313
+ }
+.item3:hover{
+    color: #E9BB82;
+}
+.item2{
+    color:#8c1313
+}
+.item2:hover{
+    color: #E9BB82;
+}

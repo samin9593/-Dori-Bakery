@@ -1,0 +1,158 @@
+@font-face {
+    font-family: Tanha;
+    font-style: normal;
+    src: url('../font/tanha.ttf') format('woff2'),
+    url('../font/tanha.woff') format('woff');
+    /* سایر خاصیت‌های مورد نیاز مانند font-weight و font-style */
+}
+*{
+    font-family: Tanha;
+    font-size:15px;
+    direction: rtl;
+}
+*{
+    direction: rtl;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.logo{
+    margin-top : 10px;
+
+
+}
+.icon-header {
+    float: left;
+    margin-top: -30px;
+    margin-left: 10px;
+}
+.profile{
+    float: left;
+    margin-right: 5px;
+    margin-top : 20px;
+}
+.items{
+    float: right;
+    padding-left: 10px;
+    background-color:#d0e7ef
+
+}
+.navbar .nav-link{
+    color: #b8425e;
+}
+
+.nav {
+    margin-top: 10px;
+    background-color: rgba(251,246,233,0.76)
+}
+.dropdown-menu{
+    background-color: #d0e7ef;
+}
+.dropdown-item{
+    color: #ffc55a;
+}
+
+.banner{
+    height:320px;
+    background: linear-gradient(#b7b8d4, #d0e7ef);
+}
+
+.cap-text{
+    padding-top: 50px;
+    padding-right: 30px;
+}
+.img-head{
+    margin-top: -290px;
+    margin-right: -100px;
+    opacity: 0.2;
+    width: 570px;
+    height: 400px;
+
+}
+.img-head-left{
+    margin-top: -450px;
+    margin-right: 1000px;
+    width:300px;
+}
+.btn-left{
+    float: left;
+    margin-top: -65px;
+    background-color: #ffc55a;
+    color: #8f9ed1;
+    border-color: #8f9ed1;
+
+}
+.img-product-left {
+    margin-top: -140px ; margin-right: 420px;
+    border-radius: 30px;
+    width: 210px ; height: 210px;
+}
+.product{
+    margin-top: -100px ; margin-right:690px;
+    background-color: #d0e7ef;
+    border-radius: 10px;
+    height: 350px ; width: 690px;
+}
+.product-text-left{
+    padding-top: 100px;padding-right: 50px;
+}
+.discount{
+    background-color: #ffc55a;
+    height: 23px ; width: 210px;
+    opacity: 0.5;
+    border-radius: 10px;
+    text-align: center;
+}
+.button{
+    margin-top: 5px ; margin-right: 428px;
+    height: 50px ; width: 190px;
+    color: white;
+    background-color: #8f9ed1 ; border-color: #8f9ed1 ; border-right-color: white ; border-bottom-color: white;
+    border-radius: 10px;
+}
+.img-card{
+    overflow: hidden;
+    border-radius: 15px;
+ }
+.img-card img{
+    border-radius: 15px;
+    transition: all ease-in-out .25s;
+}
+.img-card img:hover{
+    transform:scale(1.07);
+    border-radius:15px;
+    transition: all ease-in-out .25s;
+}
+.cap-card{
+    height: 150px;
+    width:200px;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: -20px;
+    position: relative;
+}
+.title-card{
+    padding: 10px;
+}
+item1{
+    padding-right:10px ;
+
+}
+.item1 svg:hover{
+    color:#ffc55a ;
+}
+item2{
+    padding-right: 20px;
+}
+.item3 svg:hover{
+    color: #55ae8c;
+}
+.item3 svg:hover{
+    color:#e685b5 ;
+}
+.footer{
+    height: 250px;
+    background : linear-gradient(#c5d7f2 , white);
+}
+
