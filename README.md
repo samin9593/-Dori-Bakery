@@ -44,3 +44,20 @@ The [preparation report](PREPARATION_REPORT.md) lists the checks performed and t
 * Some layout elements, including navigation icons and images, may not display or align correctly in Safari when the browser window is resized or not maximized.
 * The layout appears to work as expected in Google Chrome during local testing.
 * Checkout is simulated; no real payments are processed.
+
+## Screenshots
+
+### Homepage
+![Dori Bakery Homepage](screenshots/homepage.png)
+
+### Product Menu
+![Product Menu](screenshots/menu.png)
+
+### Shopping Cart
+![Shopping Cart](screenshots/cart.png)
+
+### Checkout
+![Checkout](screenshots/checkout.png)
+
+### Order Tracking
+![Order Tracking](screenshots/order-tracking.png)
